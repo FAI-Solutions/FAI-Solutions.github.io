@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fai-solutions.github.io/sitemap.xml
