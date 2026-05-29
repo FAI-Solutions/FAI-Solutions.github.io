@@ -1,9 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <!-- Software Hub Page -->
   <url>
     <loc>https://fai-solutions.github.io/</loc>
     <lastmod>2026-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
+
+  <!-- Move Window Between Desktops Page -->
+  <url>
+    <loc>https://fai-solutions.codeberg.page/move-window-between-desktops/</loc>
+    <lastmod>2026-05-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Open WebUI Extension Page -->
+  <url>
+    <loc>https://github.com/FAI-Solutions/open-webui-extensions</loc>
+    <lastmod>2026-05-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
 </urlset>
