@@ -4,7 +4,7 @@
   <!-- Software Hub Page -->
   <url>
     <loc>https://fai-solutions.github.io/</loc>
-    <lastmod>2026-05-29</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -12,7 +12,7 @@
   <!-- Move Window Between Desktops Page -->
   <url>
     <loc>https://fai-solutions.codeberg.page/move-window-between-desktops/</loc>
-    <lastmod>2026-05-29</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -20,7 +20,15 @@
   <!-- Open WebUI Extension Page -->
   <url>
     <loc>https://github.com/FAI-Solutions/open-webui-extensions</loc>
-    <lastmod>2026-05-29</lastmod>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- NIM Proxy to fix Continue Silent Messages -->
+  <url>
+    <loc>https://github.com/FAI-Solutions/Continue-NIM-Proxy</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
